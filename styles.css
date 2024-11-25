@@ -9,19 +9,19 @@
 	gap:10px;
 }
 
-.box1{
+.green{
 	width:100px;
 	height:100px;
 	background-color:green;
 	border-radius:50px;
 }
-.box2{
+.yellow{
 	width:100px;
 	height:100px;
 	background-color:yellow;
 	border-radius:50px;
 }
-.box3{
+.red{
 	width:100px;
 	height:100px;
 	background-color:red;
